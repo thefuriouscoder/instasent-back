@@ -1,0 +1,3 @@
+controllers:
+    resource: ../../src/Instasent/Infrastructure/Rest/Controller/
+    type: annotation

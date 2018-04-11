@@ -1,0 +1,14 @@
+ii  php-common                               1:52                                all          Common files for PHP packages
+ii  php-mongodb                              1.2.3-1                             amd64        MongoDB driver for PHP
+ii  php7.0-cli                               7.0.20-2                            amd64        command-line interpreter for the PHP scripting language
+ii  php7.0-common                            7.0.20-2                            amd64        documentation, examples and common module for PHP
+ii  php7.0-json                              7.0.20-2                            amd64        JSON module for PHP
+ii  php7.0-opcache                           7.0.20-2                            amd64        Zend OpCache module for PHP
+ii  php7.0-phpdbg                            7.0.20-2                            amd64        server-side, HTML-embedded scripting language (PHPDBG binary)
+ii  php7.0-readline                          7.0.20-2                            amd64        readline module for PHP
+ii  php7.1-cli                               7.1.6-2                             amd64        command-line interpreter for the PHP scripting language
+ii  php7.1-common                            7.1.6-2                             amd64        documentation, examples and common module for PHP
+ii  php7.1-json                              7.1.6-2                             amd64        JSON module for PHP
+ii  php7.1-opcache                           7.1.6-2                             amd64        Zend OpCache module for PHP
+ii  php7.1-readline                          7.1.6-2                             amd64        readline module for PHP
+ii  php7.1-xml                               7.1.6-2                             amd64        DOM, SimpleXML, WDDX, XML, and XSL module for PHP
